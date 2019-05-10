@@ -16,4 +16,4 @@ View all available [job postings](https://github.com/thoughtworks-jumpstart/jobs
 
 Add a [new job posting](https://github.com/thoughtworks-jumpstart/jobs/issues/new) with the job title and job description.
 
-Please see this sample [job posting](https://github.com/thoughtworks-jumpstart/jobs/issues/1) for an example of how to craft a good job posting. 
+Please see this [sample](https://github.com/thoughtworks-jumpstart/jobs/issues/1) for an example of how to craft a good job posting. 
