@@ -1,6 +1,6 @@
 # 👩‍💻 Jobs
 
-You're looking to hire and our graduates are looking for a great place to embark their career as software developers. 
+You're looking to hire and our graduates are looking to get hired. It's a match made in binary heaven.
 
 Here are some of the technologies, practices, and methodologies that are taught at JumpStart: `JavaScript`, `React`, `Node.js`, `Express`, `MongoDB`, `Postgres`, `Git`, `TDD - Test Driven Development`, `Test Automation`, `Continuous Integration`.
 
