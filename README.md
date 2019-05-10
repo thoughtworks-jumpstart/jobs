@@ -6,8 +6,6 @@ Here are some of the technologies, practices, and methodologies that are taught 
 
 For a full list of our curriculum and to learn more about our program visit our [website](https://www.thoughtworks.com/jumpstart).
 
-If that sounds like someone you're looking for then add a [new job posting](https://github.com/thoughtworks-jumpstart/jobs/issues/new).
-
 ## View job postings
 
 View all available [job postings](https://github.com/thoughtworks-jumpstart/jobs/issues).
